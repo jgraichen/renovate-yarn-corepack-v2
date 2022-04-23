@@ -4,5 +4,5 @@
   "devDependencies": {
     "webpack": "5.69.0"
   },
-  "packageManager": "yarn@2.2.0"
+  "packageManager": "yarn@2.4.3"
 }
