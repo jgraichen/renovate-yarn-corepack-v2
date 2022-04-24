@@ -300,7 +300,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"enhanced-resolve@npm:^5.9.0":
+"enhanced-resolve@npm:^5.9.2":
   version: 5.9.3
   resolution: "enhanced-resolve@npm:5.9.3"
   dependencies:
@@ -495,7 +495,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "renovate-yarn-corepack-v2@workspace:."
   dependencies:
-    webpack: 5.69.0
+    webpack: 5.72.0
   languageName: unknown
   linkType: soft
 
@@ -628,9 +628,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.69.0":
-  version: 5.69.0
-  resolution: "webpack@npm:5.69.0"
+"webpack@npm:5.72.0":
+  version: 5.72.0
+  resolution: "webpack@npm:5.72.0"
   dependencies:
     "@types/eslint-scope": ^3.7.3
     "@types/estree": ^0.0.51
@@ -641,7 +641,7 @@ __metadata:
     acorn-import-assertions: ^1.7.6
     browserslist: ^4.14.5
     chrome-trace-event: ^1.0.2
-    enhanced-resolve: ^5.9.0
+    enhanced-resolve: ^5.9.2
     es-module-lexer: ^0.9.0
     eslint-scope: 5.1.1
     events: ^3.2.0
@@ -661,6 +661,6 @@ __metadata:
       optional: true
   bin:
     webpack: bin/webpack.js
-  checksum: e5030b32955c53c1ee5f9a5317844572d042fc5f08f33667c3d62c638e97b684c2cf53c368463fa1e3ba04a71a9415c02b6e0be47bca150c3bc50069bfda389b
+  checksum: 9ef650796c6c306106b05c098dc7b4ba0ae960b1ed14f28fc9677e45042243fc10486934ea55fbf9fd067e5b158799a37b8422e84302478544453204e32f1f27
   languageName: node
   linkType: hard
