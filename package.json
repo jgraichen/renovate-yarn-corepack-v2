@@ -2,7 +2,7 @@
   "name": "renovate-yarn-corepack-v2",
   "private": true,
   "devDependencies": {
-    "webpack": "5.69.0"
+    "webpack": "5.72.1"
   },
   "packageManager": "yarn@2.2.0"
 }
